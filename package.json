@@ -1,0 +1,22 @@
+{
+  "name": "design-patterns",
+  "version": "1.0.0",
+  "description": "",
+  "main": "webdevsimplified-fetchapi.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prolifick1/design-patterns.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prolifick1/design-patterns/issues"
+  },
+  "homepage": "https://github.com/prolifick1/design-patterns#readme",
+  "devDependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
